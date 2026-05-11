@@ -4,33 +4,37 @@
 💼 Former Network Engineer / Assistant Manager at Vodafone Idea Limited  
 📍 Jersey City, NJ  
 🔬 Research publication with 700+ downloads  
-📊 Interested in Data Science, Machine Learning, Cloud Analytics, Forecasting, and AI  
+📊 Aspiring Data Scientist with interests in Machine Learning, Forecasting, Cloud Analytics, and AI  
 
 ## About Me
 
-I am a Data Science graduate student with 3 years of professional experience in network engineering, automation, incident analysis, and technical operations. My current focus is on building machine learning, time series forecasting, cloud analytics, and applied AI projects using Python, AWS, SQL, and data visualization tools.
+I am a Data Science graduate student with 3 years of professional experience in network engineering, automation, incident troubleshooting, and technical operations. I am currently building a strong data science portfolio focused on Python, machine learning, time series forecasting, AWS cloud analytics, and applied research.
 
 ## Technical Skills
 
 **Languages:** Python, SQL, R  
 **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels  
-**Machine Learning:** Classification, Regression, Clustering, Time Series Forecasting, Model Evaluation  
-**Cloud & Tools:** AWS S3, EC2, Git, GitHub, Jupyter Notebook, WEKA, MongoDB  
-**Networking Background:** Firewall, VPN, Wireshark, Incident Troubleshooting, Network Logs  
+**Machine Learning:** Classification, Regression, Clustering, Model Evaluation, Time Series Forecasting  
+**Cloud & Tools:** AWS S3, EC2, GitHub, Jupyter Notebook, WEKA, MongoDB, Power BI  
+**Networking Background:** Firewall, VPN, Wireshark, Incident Analysis, Network Logs  
 
 ## Featured Projects
 
-### AWS Big Data Analytics Pipeline
-Designed and executed a cloud-based analytics pipeline using AWS S3 and EC2 to store datasets, run Python processing workflows, and manage structured data analysis in a scalable environment.
-
-### Time Series Forecasting Project
+### Time Series Forecasting Using Python
 Built forecasting models using SARIMA and Prophet to analyze monthly trends, seasonality, prediction accuracy, and model limitations.
 
-### Machine Learning Classification Using WEKA
-Developed WEKA-based machine learning workflows using ARFF datasets, Naive Bayes, SVM/SMO, clustering, confusion matrix, and error visualization.
+### AWS Big Data Analytics Pipeline
+Designed and executed a cloud-based analytics pipeline using AWS S3 and EC2 to store datasets, run Python processing workflows, and analyze structured data.
 
-### Research Publication
-Published research paper with 700+ downloads, reflecting strong academic reach, technical relevance, and continued engagement from researchers and industry readers.
+### WEKA Machine Learning Classification
+Developed machine learning workflows using ARFF datasets, Naive Bayes, SVM/SMO, clustering, confusion matrix, and error visualization.
+
+### Network Incident Data Analysis
+Created a data analytics project inspired by network engineering experience, focused on firewall logs, VPN issues, incident trends, and operational insights.
+
+## Research
+
+Published research paper with 700+ downloads, reflecting academic visibility, technical relevance, and continued engagement from researchers and industry readers.
 
 ## Connect With Me
 
