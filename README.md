@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 My GitHub Portfolio Has Moved!
 
-<!--
-**mathurhritik2507-collab/mathurhritik2507-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hritik Mathur
 
-Here are some ideas to get you started:
+**Data Engineering | Data Science | Applied AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub profile.
+
+I have updated my GitHub username, and all my active projects, research, and technical work are now available at my new profile.
+
+### 🚀 [View My Active GitHub Portfolio](https://github.com/mathurhritik2507)
+
+**New GitHub:** https://github.com/mathurhritik2507
+
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/hritikmathur/)
+
+**Email:** mathurhritik2507@gmail.com
+
+*If you arrived here through an earlier version of my resume or a job application, please use the link above to access my current portfolio.*
